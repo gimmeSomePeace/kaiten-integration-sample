@@ -1,0 +1,3 @@
+profiler, recycler view,  templates, coroutines, flow, утечки памяти, (key store, room, preference), api модули фичи модули
+
+MVVm +
